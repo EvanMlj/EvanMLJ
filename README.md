@@ -2,8 +2,7 @@
 
 
 <h3> About me </h3>
-- 🔭 I’m currently working on : [React-Doctor](https://github.com/EvanMlj/react-doctor), [Mockstagram](https://github.com/EvanMlj/Mockstagram).
-
+- 🔭 I’m currently working on : React Doctor, Mockstragram
 - 🌱 I’m currently learning :
     <p align= "left">
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
