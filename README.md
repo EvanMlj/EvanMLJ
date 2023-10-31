@@ -3,7 +3,7 @@
 
 <h3> About me </h3>
 
-- 🔭 I’m currently working on : [ReactDoctor](https://github.com/EvanMlj/Mockstagram), [Mockstragram](https://github.com/EvanMlj/react-doctor)
+- 🔭 I’m currently working on : [ReactDoctor](https://github.com/EvanMlj/react-doctor), [Mockstragram](https://github.com/EvanMlj/Mockstagram)
   
 - 🌱 I’m currently learning :
     <p align= "left">
